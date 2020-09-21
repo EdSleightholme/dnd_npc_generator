@@ -1,0 +1,37 @@
+---NPC SHEET (DONE FOR NOW)---
+
+Backgrounds   (DONE)
+    Profientys it adds
+Races 
+    Modifers it applies to base scores and skills 
+Classes 
+    Add a class BARB
+        Add profientcys for skills      (DONE)
+                        savign throws   (DONE)
+    Will need to generate order to assign scores to make actuall chars (DONE)
+        Do weighted assignments so will pick highest scores on values seleceted then assign the rest randomly (DONE)
+    Add rest of the classes             (DONE)
+Split up this file in to smaller chunks and go though the other comments  
+    Init methods all in one folder. 
+        Class
+        Background (DONE)
+        Race 
+Make a file with all consts
+Weapons and Armor
+  Prof for weapons and armour 
+  AC and to hits on weapons
+Gear and Equipment 
+  From starting PHB gear
+Leveling up and gaining skills
+
+Make display show infomation better (DONE)
+
+-----------Dungeon Generation -------------------
+
+Generate Layout
+Generate Theme 
+Generate Traps
+Generate Loot
+Generate Enermys
+
+---------------Think about Items---------------------
